@@ -13,7 +13,7 @@ Release:        1.0%{?dist}
 Summary:        GAP browser for 2-dimensional arrays of data
 
 License:        GPLv3+
-URL:            http://www.math.rwth-aachen.de/~Browse/
+URL:            https://www.math.rwth-aachen.de/~Browse/
 Source0:        http://www.math.rwth-aachen.de/~Browse/Browse-%{version}.tar.bz2
 
 BuildRequires:  gap-devel
