@@ -16,6 +16,11 @@ License:        GPLv3+
 URL:            https://www.math.rwth-aachen.de/~Browse/
 Source0:        http://www.math.rwth-aachen.de/~Browse/Browse-%{version}.tar.bz2
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  gap-devel
 BuildRequires:  ncurses-devel
 
